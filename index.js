@@ -57,4 +57,4 @@ client.user.setGame(`شتێک بنوسە بۆ ستریمینگ`,"http://twitch.t
 
 
 
-client.login("");//تۆکین لێرە دانێ
+client.login("Nzk5ODY1NDcwMjE5OTc2NzU0.YAJyxA.c1mBVLhcfXVwNP8RERo-IJVf2yE");//تۆکین لێرە دانێ
